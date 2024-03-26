@@ -13,5 +13,5 @@ cp nginx.conf /etc/nginx/nginx.conf
 * two
 * three
 
-[x] check
-[ ] box
+- [x] check
+- [ ] box
