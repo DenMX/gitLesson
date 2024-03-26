@@ -1,9 +1,10 @@
 #Title
 >quote
 
-'''
+```
+
 cp nginx.conf /etc/nginx/nginx.conf
-'''
+```
 
 1. List
    - Nested?
